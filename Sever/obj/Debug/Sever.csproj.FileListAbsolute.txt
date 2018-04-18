@@ -1,0 +1,10 @@
+C:\Users\Panda\Desktop\Chat\Sever\bin\Debug\Sever.exe.config
+C:\Users\Panda\Desktop\Chat\Sever\bin\Debug\Sever.exe
+C:\Users\Panda\Desktop\Chat\Sever\bin\Debug\Sever.pdb
+C:\Users\Panda\Desktop\Chat\Sever\obj\Debug\Sever.csprojResolveAssemblyReference.cache
+C:\Users\Panda\Desktop\Chat\Sever\obj\Debug\Sever.Properties.Resources.resources
+C:\Users\Panda\Desktop\Chat\Sever\obj\Debug\Sever.Server.resources
+C:\Users\Panda\Desktop\Chat\Sever\obj\Debug\Sever.csproj.GenerateResource.cache
+C:\Users\Panda\Desktop\Chat\Sever\obj\Debug\Sever.csproj.CoreCompileInputs.cache
+C:\Users\Panda\Desktop\Chat\Sever\obj\Debug\Sever.exe
+C:\Users\Panda\Desktop\Chat\Sever\obj\Debug\Sever.pdb

@@ -1,0 +1,10 @@
+C:\Users\Panda\Desktop\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\Panda\Desktop\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\Panda\Desktop\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\Panda\Desktop\Chat\Chat\obj\Debug\Chat.Client.resources
+C:\Users\Panda\Desktop\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\Panda\Desktop\Chat\Chat\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Panda\Desktop\Chat\Chat\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Panda\Desktop\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\Panda\Desktop\Chat\Chat\obj\Debug\Chat.pdb
+C:\Users\Panda\Desktop\Chat\Chat\obj\Debug\Client.csprojResolveAssemblyReference.cache
